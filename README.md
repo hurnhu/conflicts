@@ -1,6 +1,6 @@
 # conflicts this is a test to make a conflic
 
-one test
+one test this is a different test
 
 
 
